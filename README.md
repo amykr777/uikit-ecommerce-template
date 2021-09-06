@@ -1,4 +1,4 @@
-# UIkit E-commerce Template
+# UIkit E-commerce 
 
 Responsive e-commerce template containing catalog, filters, product page, shopping cart and other elements of the online store. Built with [UIkit](https://getuikit.com).
 
