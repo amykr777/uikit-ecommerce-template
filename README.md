@@ -71,6 +71,4 @@ $ gulp
 
 [Shopping Categories Colection](https://thenounproject.com/jarosigrist/collection/shopping-categories) icons by Jaro Sigrist from Noun Project. Licensed under Creative Commons Attribution 3.0.
 
-## License
-
 
