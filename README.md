@@ -10,7 +10,7 @@ Also you can see `Sass` port of this theme: [vkovic/uikit-computer-store-templat
 
 ## Overview
 
-### Technologies
+### Technologies used
 
 The project leverages:
 
